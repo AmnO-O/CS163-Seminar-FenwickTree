@@ -1,0 +1,21 @@
+# Build files
+*.exe
+*.dll
+*.obj
+*.lib
+*.pdb
+*.ilk
+*.sdf
+*.tlog
+*.log
+
+# Visual Studio files
+*.vcxproj.user
+*.vcxproj.filters
+.vscode/
+Debug/
+Release/
+x64/
+x86/
+ipch/
+.vs/
