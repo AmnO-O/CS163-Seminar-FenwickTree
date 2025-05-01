@@ -19,10 +19,16 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Include\FenwickTree\FenwickTree.h" />
+    <ClInclude Include="Include\FenwickTree2D\FenwickTree2D.h" />
+    <ClInclude Include="Include\FenwickTreeGeneral\FenwickTreeGeneral.h" />
+    <ClInclude Include="Include\FenwickTreeMin\FenwickTreeMin.h" />
+    <ClInclude Include="Include\FenwickTreeRangeSum\FenwickTreeRangeSum.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Include\FenwickTree\FenwickTree.cpp" />
+    <ClCompile Include="Include\FenwickTree2D\FenwickTree2D.cpp" />
+    <ClCompile Include="Include\FenwickTreeGeneral\FenwickTreeGeneral.cpp" />
+    <ClCompile Include="Include\FenwickTreeMin\FenwickTreeMin.cpp" />
+    <ClCompile Include="Include\FenwickTreeRangeSum\FenwickTreeRangeSum.cpp" />
     <ClCompile Include="Src\main.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
